@@ -1,0 +1,35 @@
+﻿id;name;gender;fatherId;motherId;isAdopted
+1;Omar ;m;root1;root2;0
+2;Amina ;f;root3;root4;0
+3;Khalil ;m;root1;root2;0
+4;Layla ;f;root3;root4;0
+5;Karim ;m;root3;root4;0
+6;Nadia ;f;root1;root2;0
+7;Faisal ;m;1;2;0
+8;Zayn ;m;1;2;0
+9;Yasmin ;f;1;2;0
+10;Aisha ;f;1;2;0
+11;Saeed ;m;3;4;0
+12;Noora ;f;3;4;0
+13;Samara ;f;3;4;0
+14;Rami ;m;5;6;0
+15;Hiba ;f;5;6;0
+16;Dalal ;f;8;12;0
+17;Amir ;m;8;12;0
+18;Elias ;m;14;9;0
+19;Youssef ;m;14;9;0
+20;Maysa ;f;11;15;0
+21;Leila ;f;11;15;0
+22;Ibrahim ;m;11;15;0
+23;Ahmad ;m;11;15;0
+24;Mohammed ;m;18;16;0
+25;Hassan ;m;18;20;0
+26;Sara ;f;18;20;0
+27;Nadir ;m;19;21;1
+28;Ali ;m;17;20;0
+29;Eman ;f;17;20;0
+30;Abdullah ;m;17;20;0
+31;Bilal ;m;24;26;0
+32;Amer;m;24;26;0
+33;Rana ;f;24;26;0
+34;Hala ;f;24;26;0
